@@ -1,0 +1,8 @@
+node_modules/
+# Stage your real source files only
+git add electron-app/web-ui/
+git add electron-app/package.json
+git add electron-app/package-lock.json
+git add rust-host/src/
+git add rust-host/Cargo.toml
+git add rust-host/Cargo.lock
